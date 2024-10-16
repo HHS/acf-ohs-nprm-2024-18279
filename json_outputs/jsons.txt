@@ -1,0 +1,1 @@
+This folder should hold all json outputs from chatGPT.
